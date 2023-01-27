@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitor! But u can call me Greff</h1>
 <h3 align="center">A CS Student from Brazil</h3>
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Web development and functional programming**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
