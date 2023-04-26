@@ -1,5 +1,12 @@
 # 💫 About Me:
-🌱 I’m currently learning **Web development and functional programming**<br><br>🤝 I’m looking for help with **Algorithms in general** and low-level languages<br><br>📫 How to reach me **vitorgreffdias@gmail.com**<br>
+🌱 I’m currently learning **Web development and functional programming**
+
+🤝 I’m looking for help with **Algorithms in general** and low-level languages
+
+🗣️ Languages: **Portuguese**, **English** and **Basic French** <br>
+
+📫 How to reach me **vitorgreffdias@gmail.com**
+
 
 
 # 💻 Tech Stack:
