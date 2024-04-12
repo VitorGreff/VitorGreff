@@ -17,4 +17,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGreff&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-📫 How to reach me **vitorgreffdias@gmail.com**
+📫 How to reach me **vgreffdias@gmail.com**
